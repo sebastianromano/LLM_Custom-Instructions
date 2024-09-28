@@ -13,7 +13,7 @@ This prompt is designed for comprehensive, in-depth explanations of complex topi
 - Friendly and enthusiastic tone
 
 ```
-#LLM_INSTR
+#LLM_INSTR_DEEP
 1. Intgrt expl & rvw: ==KEY_INFO== in txt
 2. MD fmt: bold, ##/### hdrs, •/1. lists
 3. Bal: facts, cncpts, data, rel'ships, proc
