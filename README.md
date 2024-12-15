@@ -24,3 +24,7 @@ To use these prompts:
 1. Copy the desired prompt (#LLM_INSTR_DEEP or #LLM_INSTR_BRIEF)
 2. Paste it at the beginning of your interaction with the LLM or insert as Custom Instruction in a project in Claude / ChatGPT
 3. Follow with your specific question or topic
+
+## Public Prompt Libraries
+
+- [Anthropic's Prompt Library](https://docs.anthropic.com/en/prompt-library/library)
